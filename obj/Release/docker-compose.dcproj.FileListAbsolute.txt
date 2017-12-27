@@ -1,0 +1,1 @@
+C:\TEMP\test\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
